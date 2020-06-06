@@ -1,0 +1,7 @@
+setup.py
+cutimage.egg-info/PKG-INFO
+cutimage.egg-info/SOURCES.txt
+cutimage.egg-info/dependency_links.txt
+cutimage.egg-info/entry_points.txt
+cutimage.egg-info/requires.txt
+cutimage.egg-info/top_level.txt

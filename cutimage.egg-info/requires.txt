@@ -1,0 +1,6 @@
+Click
+torchvision
+torch
+numpy
+opencv-python
+matplotlib
