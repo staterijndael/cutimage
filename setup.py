@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name="cutimage",
     version='0.1',
-    py_modules=['hello'],
+    py_modules=[],
     install_requires=[
         'Click',
         'torchvision',
